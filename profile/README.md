@@ -14,10 +14,6 @@ To get started as a new member of our GitHub organization, please follow these s
 
 5. **Introduce yourself**: Create a new issue in our [onboarding repository]([link-to-repo](https://github.com/Master-Concept/Onboarding)) to introduce yourself to the team. Share your background, skills, research interests, and what you're excited to work on at Master Concept.
 
-## Our Repositories
-
-Please make sure to follow our repository naming conventions and coding standards when contributing to these projects.
-
 ## We're Here to Help!
 
 If you have any questions, concerns, or feedback, please don't hesitate to reach out to our GitHub organization admin, Peter Chan (peter.chan@hkmci.com), or any of our team leads. We're excited to have you on board and look forward to collaborating with you!
